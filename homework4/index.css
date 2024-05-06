@@ -1,0 +1,145 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    
+}
+
+.body1 {
+    background-image: linear-gradient(-146deg, #f9ce34,#ee2a7b,#ee2a7b);
+}
+
+.box {
+    width: 450px;
+    height: 1400px;
+    background-color: white ;
+    margin: 0px 0px 0px 515px;
+    border-radius: 0px 0px 60px 60px;
+}
+
+.text h2{
+    padding: 30px 0px 0px 24px;
+}
+
+.text p {
+    margin: 10px 25px;
+}
+
+.text img {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+    margin: 20px 0px 0px 20px;
+    position: absolute;
+}
+
+.text i {
+    position: relative;
+    margin: 15px 0px 0px 60px;
+    color: red;
+}
+
+.frm label {
+    font-size: 20px;
+    font-weight: 800;
+    margin: 0px 0px 0px 26px;
+}
+
+.frm input {
+    margin: 5px 0px 20px 27px;
+    border-radius: 5px;
+    border: grey 1px;
+    height: 45px;
+    width: 380px;
+    padding: 0px 0px 0px 10px;
+    background-color: rgba(128, 128, 128, 0.159);
+}
+.frm2 {
+    float: left;
+}
+.frm2 label {
+    font-size: 20px;
+    font-weight: 800;
+    margin: 0px 0px 0px 26px;
+}
+
+.frm2 input {
+    height: 45px;
+    width: 90px;
+    padding: 0px 0px 0px 14px;
+    margin: 5px 4px 10px 30px;
+    border-radius: 10px;
+    border: grey 1px;
+    background-color: rgba(128, 128, 128, 0.159);
+}
+
+.frm3 label{
+    font-size: 20px;
+    font-weight: 800;
+    margin: 0px 0px 0px 26px;
+}
+
+.frm3 input {
+    margin: 5px 0px 20px 27px;
+    border-radius: 5px;
+    border: grey 1px;
+    height: 45px;
+    width: 380px;
+    padding: 0px 0px 0px 10px;
+    background-color: rgba(128, 128, 128, 0.159);
+}
+
+.btn {
+    margin: 70px 0px 0px 28px;
+    padding: 0px;
+    height: 50px;
+    width: 391px;
+    border-radius: 40px;
+    border: grey 0px;
+    background: red;
+}
+
+.secnd i {
+    margin: 40px 0px 0px 30px;
+    font-size: 20px;
+}
+
+.secnd p {
+    margin: -20px 0px 0px 348px;
+    color: red;
+    font-weight: 600;
+}
+
+.text3 h3{
+    font-size: 25px;
+    margin: 50px 0px 10px 30px
+}
+
+.text3 p {
+    margin: 0px 0px 0px 30px;
+}
+
+.text3 img {
+    height: 80px;
+    width: 100px;
+    margin: 0px 13px 0px 25px;
+    padding: 10px 0px 0px 6px;
+    border-radius: 15px;
+}
+
+.text3 a {
+    margin: 0px 0px 0px 32px;
+    padding: 0px 0px 0px 12px;
+}
+
+.text4 a {
+    margin: 0px 0px 0px 30px;
+}
+
+.text4 input {
+    width: 80px;
+    height: 40px;
+    padding: 0px 10px 0px 20px;
+    margin: 20px -6px 0px 30px;
+    border-radius: 7px;
+    background-color: rgba(128, 128, 128, 0.159);
+}
