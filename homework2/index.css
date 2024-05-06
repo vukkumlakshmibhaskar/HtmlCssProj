@@ -1,0 +1,289 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(0, 132, 255);
+    height: 100%;
+    width: 100%;
+}
+
+.box {
+    height: 600px;
+    width: 1000px;
+    background-color: rgba(255, 255, 255, 0.763);
+    position: absolute;
+    margin-left: 270px;
+    margin-top: 70px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 7px black;
+}
+
+.box i {
+    margin-left: 113px;
+    color: rgb(0, 132, 255);
+    font-size: 35px;
+    margin-top: 30px;
+}
+
+.wonderlustia {
+    display: flex;
+}
+
+.wonderlustia p {
+    margin: 38px 17px;
+    font-weight: bolder;
+    font-size: 18px;
+    margin-right:50px;
+    text-transform: capitalize;
+}
+
+.wonderlustia p:hover {
+     opacity: 0.5;  
+}
+
+
+.wonderlustia a {
+    text-decoration: none;
+    margin: 38px 26px;
+    text-transform: capitalize;
+    display: flex;
+    color: rgb(138, 205, 252);
+    opacity: 1;
+    font-weight: 900;
+}
+
+.wonderlustia a:hover {
+     color: rgb(0, 81, 255);;
+     opacity: 0.5;
+     text-decoration: underline;
+}
+
+.btn {
+    margin: -66px 795px;
+}
+
+.btn button {
+    padding: 10px 35px;
+    background-color: rgb(0, 132, 255);
+    color: white;
+    border: 0px;
+    border-radius: 30px;  
+    box-shadow: 0px 2px 6px black;  
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.btn button:hover {
+    box-shadow: 0px 2px 10px black; 
+}
+
+/* .box1 {
+    margin-top: 108px;
+    margin-left: 110px;
+    padding: 8px 35px;
+    background-color: rgba(255, 55, 0, 0.207);
+    border: 0px;
+    border-radius: 30px;
+    color: rgb(255, 111, 0);
+    font-weight: 600;
+} */
+
+.box1 {
+    margin-top: 110px;
+    height: 37px;
+    width: 180px;
+    margin-left: 114px;
+    background-color: rgba(255, 55, 0, 0.207);
+    border-radius: 40px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.box1:hover {
+    box-shadow: 0px 2px 10px black; 
+}
+
+.box1 a {
+    position: relative;
+    margin: 0px 10px;
+    color: rgb(255, 85, 0);
+    font-weight: 600;
+}
+
+.box1 i {
+    font-size: 20px;
+    margin-left: 21px;
+    margin-top: 6px;
+}
+
+.text {
+    font-size: 40px;
+    line-height: 10px;
+    margin-left: 110px;
+    font-weight: bold;
+    margin-top: 50px;
+    margin-bottom: -40px;
+}
+
+.img {  
+    width: 335px;
+    height: 335px;
+    margin-left: 541px;
+    margin-top: -208px;
+    background-color: rgb(255, 106, 0);
+    border-radius: 380px;
+}
+
+.img img {
+    height: 331px;
+    margin-left: 0px;
+    margin-top: -50px;
+}
+
+.img1 {  
+    background-color: orange;
+    width: 80px;
+    height: 80px;
+    border-radius: 60px;
+    margin-top: -34px;
+}
+
+.img1 img {
+    height: 70px;
+    margin-left: 6px;
+    margin-top: -3px;
+}
+
+.text1 {
+    margin-left: -427px;
+    margin-top: -160px;
+    line-height: 5px;
+}
+
+.text1 p {
+    color: rgba(0, 0, 0, 0.481);
+    font-weight: 500;
+    margin-top: 10px;   
+}
+
+.box2 {
+    margin: -86px -80px 30px 288px;
+    background-color: white;
+    height: 90px;
+    padding-left: 0px;
+    width: 0p;
+    border-radius: 10px;
+    cursor: pointer;
+    transition: 0.5s;
+}
+
+.box2:hover {
+    box-shadow: 0px 2px 10px black; 
+}
+
+.box2 i {
+    margin: 0px 0px 0px 20px;
+    font-size: 10px;
+    color: red;
+}
+
+.box2 i:hover {
+    color:black;
+}
+
+.box2 a {
+    font-size: 18px;
+    font-weight: bold;
+    margin: 0px 0px 0px 36px;
+}
+
+.box2 p {
+    font-size: 14px;
+    margin: 5px 11px 10px 10px;
+}
+
+.box2 img {
+    height: 30px;
+    margin-left: 8px;
+    margin-top: 4px;
+    width: 30px;
+    border-radius: 18px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+.box2 img:hover {
+    opacity: 0.5;
+}
+
+.box3 {
+    background-color: white;
+    height: 55px;
+    margin-left: -430px;
+    margin-top: 75px;
+    background-color: white;
+    margin-right: 390px;
+    border-radius: 61px;
+    box-shadow: 0px 7px 14px grey;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.box3:hover {
+    box-shadow: 0px 2px 10px black; 
+}
+
+.box3 a {
+    font-weight: bolder;
+    font-size: 30px;
+    opacity: 0.5;
+}
+
+.box3 p {
+    display: inline;
+    margin: 0px 60px 0px 60px;
+    opacity: 0.7;
+    cursor: pointer;
+    transition: 0.3s;
+}
+
+.box3 p:hover {
+    box-shadow: 0px 2px 10px black; 
+}
+
+.icon {
+    margin: -62px 0px 0px -515px;
+}
+
+.icon i {
+    font-size: 12px;
+    margin-left: 110px;
+    margin-right: -50px;
+}
+
+.icon a {
+    margin-left: 191px;
+    font-size: 30px;
+    font-weight: bold;
+    opacity: 0.5;
+}
+
+.icon2 {
+    margin-left: 180px;
+    margin-top: -47px;
+}
+
+.text2 p {
+    margin-left: -381px;
+    margin-top: -18px;
+    font-weight: 600;
+    opacity: 0.9;
+    cursor: pointer;    
+}
+
+
+.text3 p {
+    margin-left: -205px;
+    margin-top: -34px;
+    font-weight: 600;
+    opacity: 0.9;
+}
